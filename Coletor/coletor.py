@@ -4,7 +4,7 @@ from datetime import datetime
 
 date=datetime.today().strftime('%Y%m%d')
 
-# Nome do arquivo compactado
+# Nome do arquivo compactado --
 zip_r1 = "X:\\Help Desk\\Projeto Oi BC\\Bases Servtel\\R1\\SERVTEL_R1_"+str(date)+".zip"
 zip_r2 = "X:\\Help Desk\\Projeto Oi BC\\Bases Servtel\\R2\\SERVTEL_R2_"+str(date)+".zip"
 
